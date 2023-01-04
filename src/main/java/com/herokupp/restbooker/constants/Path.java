@@ -1,0 +1,7 @@
+package com.herokupp.restbooker.constants;
+
+public class Path {
+    public static final String AUTHORIZATION = "/auth";
+    public static final String BOOKING = "/booking";
+
+}

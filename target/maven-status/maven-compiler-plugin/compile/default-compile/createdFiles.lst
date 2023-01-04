@@ -1,0 +1,6 @@
+com\herokupp\restbooker\constants\EndPoints.class
+com\herokupp\restbooker\bookinginfo\BookingSteps.class
+com\herokupp\restbooker\constants\Path.class
+com\herokupp\restbooker\model\BookingPojo.class
+com\herokupp\restbooker\utils\PropertyReader.class
+com\herokupp\restbooker\utils\TestUtils.class
